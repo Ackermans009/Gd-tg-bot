@@ -1,0 +1,6 @@
+python-telegram-bot==20.8  # Or a newer compatible version
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-dotenv # For managing environment variables
+requests
